@@ -1,4 +1,4 @@
-Data Sources and Collection :
+## Data Sources and Collection :
 Our data collection process hinges on the intricate practice of web scraping, a sophisticated method employed to extract comprehensive information from websites. To execute this method, we
 leverage Selenium WebDriver, an invaluable tool designed for automating web browser interactions. Specifically, we target the primary website "https://global-standard.org/find-suppliers-shops-andinputs/certified-suppliers/database/search" to orchestrate our data gathering. Within this virtual
 environment, our automated scripts meticulously simulate user-initiated actions by navigating through various sections, clicking buttons, and extracting targeted data. During the web scraping process, Selenium becomes the linchpin, utilizing its robust functionalities to meticulously navigate HTML elements. By harnessing XPath expressions and element locators such as By.XPATH, we precisely pinpoint and interact with buttons and links embedded within the webpage. For instance, the initial button click within the provided web page's
@@ -10,7 +10,7 @@ pivotal information, including company, brand_name, country, product_category, c
 meticulous extraction of data is then organized and structured into a CSV file format, primed for future analysis and interpretation. In essence, this technical approach harnesses Selenium's formidable capabilities,
 orchestrates intricate element selections, and systematically navigates web pages to meticulously harvest pertinent data from the target website. The fusion of precise configurations, automated
 scraping methodologies, and data structuring lays the groundwork for deriving actionable insights from online sources.
-II- Description of the Database:
+## II- Description of the Database:
 The database used in this study is a collection of data describing a portfolio of 1000 details
 about certifications related to various companies. Moving on to examine the structure of our
 database, we note that it is organized in the form of a table comprising twelve distinct columns.The database contains these columns:
