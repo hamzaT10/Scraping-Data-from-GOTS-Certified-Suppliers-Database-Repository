@@ -1,4 +1,4 @@
-## Data Sources and Collection :
+## I-Data Sources and Collection :
 ### 
 Our data collection process hinges on the intricate practice of web scraping, a sophisticated method employed to extract comprehensive information from websites. To execute this method, we leverage Selenium WebDriver, an invaluable tool designed for automating web browser interactions. Specifically, we target the primary website "https://global-standard.org/find-suppliers-shops andinputs/certified-suppliers/database/search" to orchestrate our data gathering. Within this virtual environment, our automated scripts meticulously simulate user-initiated actions by navigating through various sections, clicking buttons, and extracting targeted data. 
 ### 
