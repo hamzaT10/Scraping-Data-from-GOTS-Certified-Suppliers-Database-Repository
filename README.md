@@ -13,9 +13,9 @@ As we progress to these company-specific detail pages, our scraping methodology 
 in complexity. Selenium's precision enables us to isolate and extract key HTML elements housing
 pivotal information, including company, brand_name, country, product_category, contact_name, email_address, Address, license_number, pdf, certification_body, expiry_date, product_details. This
 meticulous extraction of data is then organized and structured into a CSV file format, primed for future analysis and interpretation. 
-### In essence, this technical approach harnesses Selenium's formidable capabilities,
-orchestrates intricate element selections, and systematically navigates web pages to meticulously harvest pertinent data from the target website. The fusion of precise configurations, automated
-scraping methodologies, and data structuring lays the groundwork for deriving actionable insights from online sources.
+### 
+In essence, this technical approach harnesses Selenium's formidable capabilities,
+orchestrates intricate element selections, and systematically navigates web pages to meticulously harvest pertinent data from the target website. The fusion of precise configurations, automated scraping methodologies, and data structuring lays the groundwork for deriving actionable insights from online sources.
 ## II- Description of the Database:
 The database used in this study is a collection of data describing a portfolio of 1000 details
 about certifications related to various companies. Moving on to examine the structure of our
