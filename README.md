@@ -14,20 +14,20 @@ scraping methodologies, and data structuring lays the groundwork for deriving ac
 The database used in this study is a collection of data describing a portfolio of 1000 details
 about certifications related to various companies. Moving on to examine the structure of our
 database, we note that it is organized in the form of a table comprising twelve distinct columns.The database contains these columns:
-### Company: Represents the name of the certified company listed in the database.
-### Brand Name: Refers to the specific brand associated with the certified company.
-### Country: Indicates the country where the certified company is located or operates from.
-### Product Category: Specifies the category of products associated with the certified company.
-### Contact Name: Provides the name of the primary contact person within the certified
+###  Company: Represents the name of the certified company listed in the database.
+###  Brand Name: Refers to the specific brand associated with the certified company.
+###  Country: Indicates the country where the certified company is located or operates from.
+###  Product Category: Specifies the category of products associated with the certified company.
+###  Contact Name: Provides the name of the primary contact person within the certified
 company.
-### Email Address: Includes the email contact associated with the certified company or contact
+###  Email Address: Includes the email contact associated with the certified company or contact
 person.
-### Address: Provides address details of the certified company.
-### License Number: Represents the unique identification assigned to the certified company.
-### PDF: Contains the link or reference to the PDF document associated with the certified
+###  Address: Provides address details of the certified company.
+###  License Number: Represents the unique identification assigned to the certified company.
+###  PDF: Contains the link or reference to the PDF document associated with the certified
 company or its certification details.
-### Certification Body: Refers to the organization or entity responsible for issuing the
+###  Certification Body: Refers to the organization or entity responsible for issuing the
 certification to the company.
-### Expiry Date: Specifies the date when the certification linked to the company is set to expire.
-### Product Details: Includes specific details related to the products offered by the certified
+###  Expiry Date: Specifies the date when the certification linked to the company is set to expire.
+###  Product Details: Includes specific details related to the products offered by the certified
 company.
